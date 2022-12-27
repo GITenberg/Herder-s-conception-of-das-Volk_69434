@@ -1,0 +1,37 @@
+_repo: Herder-s-conception-of-das-Volk_69434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simpson, Georgiana Rose
+    alias: Simpson, Georgiana R.
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '55263'
+    url: http://www.gutenberg.org/2009/agents/55263
+    wikipedia: https://en.wikipedia.org/wiki/Georgiana_Simpson
+description: ''
+gutenberg_issued: '2022-11-28'
+identifiers:
+  gutenberg: '69434'
+  lccn: '24020990'
+language: en
+pgterms:marc904: https://www.loc.gov/item/24020990/
+pgterms:marc905: 20211231202303simpson
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Mary Glenn Krause and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by the Library of Congress)
+publication_note: 'United States: The University of Chicago,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Herder, Johann Gottfried, 1744-1803'
+- !lcsh 'German language -- Semantics'
+- !lcsh 'German language -- Etymology'
+- !lcc 'PT'
+- GITenberg
+title: Herder's conception of "das Volk"
+url: http://www.gutenberg.org/ebooks/69434
