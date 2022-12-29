@@ -1,5 +1,8 @@
 _repo: Herder-s-conception-of-das-Volk_69434
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69434-h/images/cover.jpg
 creator:
   author:
     agent_name: Simpson, Georgiana Rose
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55263
     wikipedia: https://en.wikipedia.org/wiki/Georgiana_Simpson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69434#Herder-s-conception-of-das-Volk
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69434'
